@@ -30,7 +30,7 @@ If you like this project please give it a 🌟. Thank you 🙏.
 Visit the [home page](https://experience-xcloud.github.io) to know how to install Better xCloud on your device.
 
 ## Full documentations
-- For the full details please visit: [**better-xcloud.github.io**](https://experience-xcloud.github.io)  
+- For the full details please visit: [**experience-xcloud.github.io**](https://experience-xcloud.github.io)  
 - [Demo video](https://youtu.be/hyp69Jrb2sQ)
 
 ⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/experiencexcloud) instead.

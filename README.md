@@ -27,16 +27,16 @@ This script makes me spend more time with xCloud, and I hope the same thing happ
 If you like this project please give it a 🌟. Thank you 🙏.
 
 ## How to install
-Visit the [home page](https://better-xcloud.github.io) to know how to install Better xCloud on your device.
+Visit the [home page](https://experience-xcloud.github.io) to know how to install Better xCloud on your device.
 
 ## Full documentations
-- For the full details please visit: [**better-xcloud.github.io**](https://better-xcloud.github.io)  
+- For the full details please visit: [**better-xcloud.github.io**](https://experience-xcloud.github.io)  
 - [Demo video](https://youtu.be/hyp69Jrb2sQ)
 
-⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/betterxcloud) instead.
+⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/experiencexcloud) instead.
 
 ## Donation
-If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/redphx).  
+If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/jonypeixoto).  
 Or you can give this project a star, that's also helpful.  
 Thank you.  
 
